@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-06T14:30:12.203Z" agent="5.0 (Windows)" etag="zDYsf32XRTFD7VNV1zla" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-06T14:40:55.973Z" agent="5.0 (Windows)" etag="mGh0UhI1Wj7hOUtyP_yv" version="15.7.0" type="github">
   <diagram id="obnejTNZjhkr4IZGIAUX" name="Page-1">
     <mxGraphModel dx="1221" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,12 +65,12 @@
         <mxCell id="BLvCJHKZxypJ7AJooB3f-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="BLvCJHKZxypJ7AJooB3f-15" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BLvCJHKZxypJ7AJooB3f-20" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="BLvCJHKZxypJ7AJooB3f-19" vertex="1">
+        <mxCell id="BLvCJHKZxypJ7AJooB3f-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="BLvCJHKZxypJ7AJooB3f-19" vertex="1">
           <mxGeometry width="40" height="30" as="geometry">
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BLvCJHKZxypJ7AJooB3f-21" value="Value 2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" parent="BLvCJHKZxypJ7AJooB3f-19" vertex="1">
+        <mxCell id="BLvCJHKZxypJ7AJooB3f-21" value="HoTen" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" parent="BLvCJHKZxypJ7AJooB3f-19" vertex="1">
           <mxGeometry x="40" width="140" height="30" as="geometry">
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -78,7 +78,7 @@
         <mxCell id="BLvCJHKZxypJ7AJooB3f-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="BLvCJHKZxypJ7AJooB3f-15" vertex="1">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BLvCJHKZxypJ7AJooB3f-23" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="BLvCJHKZxypJ7AJooB3f-22" vertex="1">
+        <mxCell id="BLvCJHKZxypJ7AJooB3f-23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="BLvCJHKZxypJ7AJooB3f-22" vertex="1">
           <mxGeometry width="40" height="30" as="geometry">
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -489,10 +489,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g5FbyaYRRs4b7wmHahmc-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Truy vấn tổng tiền&lt;/b&gt; &lt;b&gt;Dịch vụ&lt;/b&gt; : select MaHD, SUM(PhiDV) as TongPhiDV from DichVu join HoaDonChiTiet on DichVu.MaDV=HoaDonChiTiet.MaDV Where HoaDonChiTiet.MaHD=??? Group by MaHD&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-400" width="1030" height="30" as="geometry" />
+          <mxGeometry x="20" y="-490" width="1030" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g5FbyaYRRs4b7wmHahmc-44" value="&lt;b&gt;Tính tổng tiền phòng : SELECT MaHD, SUM(Giaphong * soGio) as TongTienPhong FROM LoaiPhong join Phong on LoaiPhong.MaLP = Phong.MaLP join ChiTietHoaDon on Phong.MaPhong = ChiTietHoaDon.MaPhong Where MaHD=??? Group by MaHD&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-310" width="910" height="30" as="geometry" />
+          <mxGeometry x="70" y="-440" width="910" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g5FbyaYRRs4b7wmHahmc-45" value="HD01: P1: DV1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="-210" width="160" height="30" as="geometry" />
