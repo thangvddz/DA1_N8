@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T15:07:58.343Z" agent="5.0 (Windows)" etag="MhTiXOAsIp28f7GF1R9B" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T15:19:38.604Z" agent="5.0 (Windows)" etag="S_ZeKHmShpAA0hflYsnE" version="15.7.3" type="github">
   <diagram id="rmi0cklpkRztWKXMYj8N" name="Page-1">
     <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,38 +235,53 @@
         <mxCell id="d2-mj7eKeR3F7pEjeApT-94" value="Doanh thu" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="1350" y="750" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HgcTmH1Wz8QPksumSohn-1" value="Quản lý hóa đơn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HgcTmH1Wz8QPksumSohn-1" value="Quản lý hóa đơn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1870" y="723.75" width="210" height="36.25" as="geometry" />
         </mxCell>
-        <mxCell id="HgcTmH1Wz8QPksumSohn-3" value="&lt;div&gt;Mục đích: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cập nhật thông tin của khách đang ở tại khách sạn(chưa trả phòng, chưa thanh toán.)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;nếu trong quá trình ở tại khách sạn khách hàng gọi thêm dịch vụ hoặc đặt thêm phòng cho bạn. thì có thể thêm tại đây&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;tại chức năng này có thể thêm sự đặt thêm phòng, thêm dịch vụ.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;tại chức năng này có thể hủy dịch vụ đặt thêm hoặc hủy phòng muốn thêm &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sửa&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HgcTmH1Wz8QPksumSohn-3" value="&lt;div&gt;Mục đích: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cập nhật thông tin của khách đang ở tại khách sạn(chưa trả phòng, chưa thanh toán.)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;nếu trong quá trình ở tại khách sạn khách hàng gọi thêm dịch vụ hoặc đặt thêm phòng cho bạn. thì có thể thêm tại đây&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;tại chức năng này có thể thêm sự đặt thêm phòng, thêm dịch vụ.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;tại chức năng này có thể hủy dịch vụ đặt thêm hoặc hủy phòng muốn thêm &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sửa&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1930" y="820" width="330" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="HgcTmH1Wz8QPksumSohn-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2400" y="701.88" width="508.12" height="508.12" as="geometry" />
+        <mxCell id="HgcTmH1Wz8QPksumSohn-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="2400.94" y="705.9399999999999" width="508.12" height="508.12" as="geometry" />
         </mxCell>
-        <mxCell id="HgcTmH1Wz8QPksumSohn-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2430" y="790" width="410" height="410" as="geometry" />
+        <mxCell id="HgcTmH1Wz8QPksumSohn-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="2430" y="790" width="290" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="HgcTmH1Wz8QPksumSohn-6" value="Bảng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="HgcTmH1Wz8QPksumSohn-6" value="Bảng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="2430" y="760" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HgcTmH1Wz8QPksumSohn-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HgcTmH1Wz8QPksumSohn-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2580" y="723.75" width="120" height="21.88" as="geometry" />
         </mxCell>
-        <mxCell id="HgcTmH1Wz8QPksumSohn-8" value="Tìm kiếm" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="HgcTmH1Wz8QPksumSohn-8" value="Tìm kiếm" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="2720" y="723.75" width="60" height="26.25" as="geometry" />
         </mxCell>
-        <mxCell id="HgcTmH1Wz8QPksumSohn-9" value="TT_Khách hàng" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="HgcTmH1Wz8QPksumSohn-9" value="TT_Khách hàng" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="2430" y="790" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HgcTmH1Wz8QPksumSohn-10" value="Ngày tạo hóa đơn" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="HgcTmH1Wz8QPksumSohn-10" value="Ngày tạo hóa đơn" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="2520" y="790" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HgcTmH1Wz8QPksumSohn-11" value="Ngày tạo hóa đơn: chính là ngày khách bắt đầu thuê phòng" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2481" y="650" width="409" height="30" as="geometry" />
+        <mxCell id="HgcTmH1Wz8QPksumSohn-11" value="Ngày tạo hóa đơn: chính là ngày khách bắt đầu thuê phòng" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="2460" y="670" width="409" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HgcTmH1Wz8QPksumSohn-12" value="kk" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="HgcTmH1Wz8QPksumSohn-12" value="kk" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="2610" y="790" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N6NWHXqTtiD3GwVOqX-7-1" value="danh sách dịch vụ đang sử dụng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="790" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="N6NWHXqTtiD3GwVOqX-7-2" value="danh sách phòng đang thuê" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="980" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="N6NWHXqTtiD3GwVOqX-7-3" value="khách hàng 1" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="820" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N6NWHXqTtiD3GwVOqX-7-4" value="khách hàng 2" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="850" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N6NWHXqTtiD3GwVOqX-7-5" value="....." style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="880" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
