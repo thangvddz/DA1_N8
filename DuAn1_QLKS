@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T14:22:38.023Z" agent="5.0 (Windows)" etag="AEssJ8xDRONoNz1llEld" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T14:23:03.027Z" agent="5.0 (Windows)" etag="5y2wvH4uR5bEbVmHGZ8M" version="15.8.3" type="github">
   <diagram id="obnejTNZjhkr4IZGIAUX" name="Page-1">
     <mxGraphModel dx="2048" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BLvCJHKZxypJ7AJooB3f-5" value="KhachHang" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="160" width="180" height="330" as="geometry" />
+          <mxGeometry x="140" y="160" width="180" height="330" as="geometry" />
         </mxCell>
         <mxCell id="BLvCJHKZxypJ7AJooB3f-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="BLvCJHKZxypJ7AJooB3f-5" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
