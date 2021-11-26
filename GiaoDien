@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-26T14:08:06.613Z" agent="5.0 (Windows)" etag="xIuXdlQ5UuevPxl95jAg" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-26T14:18:02.572Z" agent="5.0 (Windows)" etag="4EAJEKYIjn1Ruq_2FWvU" version="15.8.6" type="github">
   <diagram id="rmi0cklpkRztWKXMYj8N" name="Page-1">
     <mxGraphModel dx="1221" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -720,8 +720,20 @@
         <mxCell id="uL2XMUHyKjjSxl-391Ow-101" value="Lưu lại lịch sử" style="html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1505" y="165" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="uL2XMUHyKjjSxl-391Ow-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;strokeColor=#140000;" edge="1" parent="1" source="uL2XMUHyKjjSxl-391Ow-108" target="uL2XMUHyKjjSxl-391Ow-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uL2XMUHyKjjSxl-391Ow-108" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=default;strokeWidth=10;margin=4;spacing=2;" vertex="1" parent="1">
-          <mxGeometry x="2540" y="-1090" width="30" height="30" as="geometry" />
+          <mxGeometry x="2540" y="-1030" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uL2XMUHyKjjSxl-391Ow-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;strokeColor=#140000;" edge="1" parent="1" source="uL2XMUHyKjjSxl-391Ow-109" target="uL2XMUHyKjjSxl-391Ow-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uL2XMUHyKjjSxl-391Ow-109" value="hiển thị giao diện trả phòng" style="html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="-960" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uL2XMUHyKjjSxl-391Ow-111" value="hiển thị giao diện trả phòng" style="html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="-850" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
