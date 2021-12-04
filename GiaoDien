@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-04T14:15:51.520Z" agent="5.0 (Windows)" etag="nc3e6ekDxfqtA0Ssq2ME" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-04T14:19:31.667Z" agent="5.0 (Windows)" etag="ZORmTMScJELpBYG5iCwm" version="15.8.8" type="github">
   <diagram id="rmi0cklpkRztWKXMYj8N" name="Page-1">
     <mxGraphModel dx="1483" dy="3104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -750,8 +750,13 @@
         <mxCell id="uL2XMUHyKjjSxl-391Ow-180" value="Nhập thông tin khách hàng" style="html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="-1410" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uL2XMUHyKjjSxl-391Ow-181" value="&lt;div&gt;sai&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;strokeColor=#140000;verticalAlign=bottom;" parent="1" source="uL2XMUHyKjjSxl-391Ow-183" target="uL2XMUHyKjjSxl-391Ow-185" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="uL2XMUHyKjjSxl-391Ow-181" value="&lt;div&gt;sai&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;strokeColor=#140000;verticalAlign=bottom;" parent="1" source="uL2XMUHyKjjSxl-391Ow-183" target="uL2XMUHyKjjSxl-391Ow-185" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="-1282" />
+              <mxPoint x="1460" y="-1282" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uL2XMUHyKjjSxl-391Ow-182" value="&lt;div&gt;đúng&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;strokeColor=#140000;verticalAlign=bottom;" parent="1" source="uL2XMUHyKjjSxl-391Ow-183" target="uL2XMUHyKjjSxl-391Ow-187" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -759,15 +764,16 @@
         <mxCell id="uL2XMUHyKjjSxl-391Ow-183" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1585" y="-1300" width="60" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="uL2XMUHyKjjSxl-391Ow-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;strokeColor=#140000;" parent="1" source="uL2XMUHyKjjSxl-391Ow-185" target="uL2XMUHyKjjSxl-391Ow-180" edge="1">
+        <mxCell id="uL2XMUHyKjjSxl-391Ow-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;strokeColor=#140000;" parent="1" source="uL2XMUHyKjjSxl-391Ow-185" target="uL2XMUHyKjjSxl-391Ow-180" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1855" y="-1370" />
+              <mxPoint x="1510" y="-1370" />
+              <mxPoint x="1510" y="-1370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uL2XMUHyKjjSxl-391Ow-185" value="Báo lỗi" style="html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="-1322" width="190" height="80" as="geometry" />
+          <mxGeometry x="1250" y="-1322" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uL2XMUHyKjjSxl-391Ow-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;strokeColor=#140000;" parent="1" source="uL2XMUHyKjjSxl-391Ow-187" target="uL2XMUHyKjjSxl-391Ow-188" edge="1">
           <mxGeometry relative="1" as="geometry" />
