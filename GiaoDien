@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T13:26:08.657Z" agent="5.0 (Windows)" etag="d6UysP4JdDYe1lErL5aZ" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T13:58:05.527Z" agent="5.0 (Windows)" etag="15jxxyWaJXNmX6Dd3OEx" version="15.9.1" type="github">
   <diagram id="rmi0cklpkRztWKXMYj8N" name="Page-1">
     <mxGraphModel dx="1038" dy="2874" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1027,7 +1027,7 @@
         <mxCell id="KW5OJ06qtvYr9QZVQhJj-31" value="&lt;div&gt;Lịch sử giao dịch&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="845" y="-1793" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KW5OJ06qtvYr9QZVQhJj-32" value="&lt;div&gt;tìm kiếm giao dịch&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="KW5OJ06qtvYr9QZVQhJj-32" value="&lt;div&gt;Gửi báo cáo&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="925" y="-1793" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KW5OJ06qtvYr9QZVQhJj-33" value="&lt;div&gt;Ca nhân viên&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;horizontal=0;" parent="1" vertex="1">
